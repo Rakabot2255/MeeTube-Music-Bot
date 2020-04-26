@@ -1,5 +1,5 @@
 {
-    "name": "GaanaBot",
-    "description": "Telegram Bot to download songs",
+    "name": "gaanabot",
+    "description": "telegram bot to download songs",
     "repository": "https://github.com/Rakabot2255/MeeTube-Music-Bot",
 }
